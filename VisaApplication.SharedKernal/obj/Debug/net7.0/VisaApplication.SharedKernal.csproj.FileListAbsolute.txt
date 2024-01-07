@@ -1,0 +1,13 @@
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\bin\Debug\net7.0\VisaApplication.SharedKernal.deps.json
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\bin\Debug\net7.0\VisaApplication.SharedKernal.dll
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\bin\Debug\net7.0\VisaApplication.SharedKernal.pdb
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\obj\Debug\net7.0\VisaApplication.SharedKernal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\obj\Debug\net7.0\VisaApplication.SharedKernal.AssemblyInfoInputs.cache
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\obj\Debug\net7.0\VisaApplication.SharedKernal.AssemblyInfo.cs
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\obj\Debug\net7.0\VisaApplication.SharedKernal.csproj.CoreCompileInputs.cache
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\obj\Debug\net7.0\VisaApplication.SharedKernal.dll
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\obj\Debug\net7.0\refint\VisaApplication.SharedKernal.dll
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\obj\Debug\net7.0\VisaApplication.SharedKernal.pdb
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\obj\Debug\net7.0\ref\VisaApplication.SharedKernal.dll
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\bin\Debug\net7.0\VisaApplication.SharedKernal.runtimeconfig.json
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SharedKernal\obj\Debug\net7.0\VisaApplication.SharedKernal.genruntimeconfig.cache

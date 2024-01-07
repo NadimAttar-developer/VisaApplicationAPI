@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "0TOjBqom2pKMGz5lcPs9q+ZVKrin6LGnJf0p37iUZmU=",
+  "Source": "VisaApplicationAPI",
+  "BasePath": "_content/VisaApplicationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VisaApplicationAPI\\wwwroot",
+      "Source": "VisaApplicationAPI",
+      "ContentRoot": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\wwwroot\\",
+      "BasePath": "_content/VisaApplicationAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\wwwroot\\data\\files\\document\\76f2da5a-54fa-4fad-a2f5-34e953690056.pdf",
+      "SourceId": "VisaApplicationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\wwwroot\\",
+      "BasePath": "_content/VisaApplicationAPI",
+      "RelativePath": "data/files/document/76f2da5a-54fa-4fad-a2f5-34e953690056.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\files\\document\\76f2da5a-54fa-4fad-a2f5-34e953690056.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\wwwroot\\data\\files\\document\\af67cfc4-1eba-47f0-822e-a7056a767a85.pdf",
+      "SourceId": "VisaApplicationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\wwwroot\\",
+      "BasePath": "_content/VisaApplicationAPI",
+      "RelativePath": "data/files/document/af67cfc4-1eba-47f0-822e-a7056a767a85.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\files\\document\\af67cfc4-1eba-47f0-822e-a7056a767a85.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\wwwroot\\data\\files\\document\\bb63b7f6-70f8-47f5-a693-5e327dd0b1fc.jpg",
+      "SourceId": "VisaApplicationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\wwwroot\\",
+      "BasePath": "_content/VisaApplicationAPI",
+      "RelativePath": "data/files/document/bb63b7f6-70f8-47f5-a693-5e327dd0b1fc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\files\\document\\bb63b7f6-70f8-47f5-a693-5e327dd0b1fc.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\wwwroot\\data\\files\\document\\ee56cece-f1f5-4220-bc6f-aa5bb9aef501.png",
+      "SourceId": "VisaApplicationAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\wwwroot\\",
+      "BasePath": "_content/VisaApplicationAPI",
+      "RelativePath": "data/files/document/ee56cece-f1f5-4220-bc6f-aa5bb9aef501.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\files\\document\\ee56cece-f1f5-4220-bc6f-aa5bb9aef501.png"
+    }
+  ]
+}

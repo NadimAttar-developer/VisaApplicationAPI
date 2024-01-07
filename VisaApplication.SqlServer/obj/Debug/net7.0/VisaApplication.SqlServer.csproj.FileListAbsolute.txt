@@ -1,0 +1,17 @@
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\bin\Debug\net7.0\VisaApplication.SqlServer.deps.json
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\bin\Debug\net7.0\VisaApplication.SqlServer.dll
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\bin\Debug\net7.0\VisaApplication.SqlServer.pdb
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\VisaApplication.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\VisaApplication.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\VisaApplication.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\VisaApplication.SqlServer.AssemblyInfo.cs
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\VisaApplication.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\VisaApplication.SqlServer.dll
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\refint\VisaApplication.SqlServer.dll
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\VisaApplication.SqlServer.pdb
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\ref\VisaApplication.SqlServer.dll
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\bin\Debug\net7.0\VisaApplication.Model.dll
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\bin\Debug\net7.0\VisaApplication.Model.pdb
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\VisaApplication.SqlServer.csproj.CopyComplete
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\bin\Debug\net7.0\VisaApplication.SqlServer.runtimeconfig.json
+C:\Users\Nadim Attar\Desktop\Task Projects\VisaApplicationAPI\VisaApplication.SqlServer\obj\Debug\net7.0\VisaApplication.SqlServer.genruntimeconfig.cache
