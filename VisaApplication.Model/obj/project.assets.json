@@ -2281,11 +2281,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj",
       "projectName": "VisaApplication.Model",
-      "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj",
+      "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj",
       "packagesPath": "C:\\Users\\Nadim Attar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\obj\\",
+      "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nadim Attar\\AppData\\Roaming\\NuGet\\NuGet.Config",

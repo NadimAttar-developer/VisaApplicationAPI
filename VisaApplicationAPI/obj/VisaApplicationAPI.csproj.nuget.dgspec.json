@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\VisaApplicationAPI.csproj": {}
+    "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationAPI\\VisaApplicationAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj": {
+    "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj",
         "projectName": "VisaApplication.Model",
-        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj",
+        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj",
         "packagesPath": "C:\\Users\\Nadim Attar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\obj\\",
+        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadim Attar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Seeder\\VisaApplication.Seeder.csproj": {
+    "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Seeder\\VisaApplication.Seeder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Seeder\\VisaApplication.Seeder.csproj",
+        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Seeder\\VisaApplication.Seeder.csproj",
         "projectName": "VisaApplication.Seeder",
-        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Seeder\\VisaApplication.Seeder.csproj",
+        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Seeder\\VisaApplication.Seeder.csproj",
         "packagesPath": "C:\\Users\\Nadim Attar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Seeder\\obj\\",
+        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Seeder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadim Attar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,14 +103,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj"
               },
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj"
               },
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj"
               }
             }
           }
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj": {
+    "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj",
         "projectName": "VisaApplication.Service",
-        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj",
+        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj",
         "packagesPath": "C:\\Users\\Nadim Attar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Service\\obj\\",
+        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadim Attar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,8 +180,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj"
               }
             }
           }
@@ -227,14 +227,14 @@
         }
       }
     },
-    "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj": {
+    "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj",
+        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj",
         "projectName": "VisaApplication.SqlServer",
-        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj",
+        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj",
         "packagesPath": "C:\\Users\\Nadim Attar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\obj\\",
+        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadim Attar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -251,8 +251,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj"
               }
             }
           }
@@ -306,14 +306,14 @@
         }
       }
     },
-    "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\VisaApplicationAPI.csproj": {
+    "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationAPI\\VisaApplicationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\VisaApplicationAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationAPI\\VisaApplicationAPI.csproj",
         "projectName": "VisaApplicationAPI",
-        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\VisaApplicationAPI.csproj",
+        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationAPI\\VisaApplicationAPI.csproj",
         "packagesPath": "C:\\Users\\Nadim Attar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationAPI\\obj\\",
+        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadim Attar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -330,20 +330,20 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Seeder\\VisaApplication.Seeder.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Seeder\\VisaApplication.Seeder.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Seeder\\VisaApplication.Seeder.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Seeder\\VisaApplication.Seeder.csproj"
               },
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj"
               },
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj"
               },
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj"
               },
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationSharedUI\\VisaApplicationSharedUI.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationSharedUI\\VisaApplicationSharedUI.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationSharedUI\\VisaApplicationSharedUI.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationSharedUI\\VisaApplicationSharedUI.csproj"
               }
             }
           }
@@ -400,14 +400,14 @@
         }
       }
     },
-    "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj": {
+    "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj",
+        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj",
         "projectName": "VisaApplicationBase",
-        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj",
+        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationBase\\VisaApplicationBase.csproj",
         "packagesPath": "C:\\Users\\Nadim Attar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationBase\\obj\\",
+        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadim Attar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -424,11 +424,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Model\\VisaApplication.Model.csproj"
               },
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj"
               }
             }
           }
@@ -474,14 +474,14 @@
         }
       }
     },
-    "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationSharedUI\\VisaApplicationSharedUI.csproj": {
+    "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationSharedUI\\VisaApplicationSharedUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationSharedUI\\VisaApplicationSharedUI.csproj",
+        "projectUniqueName": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationSharedUI\\VisaApplicationSharedUI.csproj",
         "projectName": "VisaApplicationSharedUI",
-        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationSharedUI\\VisaApplicationSharedUI.csproj",
+        "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationSharedUI\\VisaApplicationSharedUI.csproj",
         "packagesPath": "C:\\Users\\Nadim Attar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplicationSharedUI\\obj\\",
+        "outputPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplicationSharedUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadim Attar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -498,11 +498,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.Service\\VisaApplication.Service.csproj"
               },
-              "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Task Projects\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj"
+              "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\Nadim Attar\\Desktop\\Test Project\\VisaApplicationAPI\\VisaApplication.SqlServer\\VisaApplication.SqlServer.csproj"
               }
             }
           }

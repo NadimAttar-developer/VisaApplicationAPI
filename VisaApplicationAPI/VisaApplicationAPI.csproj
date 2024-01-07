@@ -24,8 +24,4 @@
     <ProjectReference Include="..\VisaApplicationSharedUI\VisaApplicationSharedUI.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\" />
-  </ItemGroup>
-
 </Project>

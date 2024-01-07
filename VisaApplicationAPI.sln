@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisaApplicationAPI", "VisaApplicationAPI\VisaApplicationAPI.csproj", "{94674894-C6EC-48DF-9542-036B5CC87752}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisaApplicationAPI", "VisaApplicationAPI\VisaApplicationAPI.csproj", "{94674894-C6EC-48DF-9542-036B5CC87752}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{141A0301-CDF9-40F9-ACF0-5DBBF4983E49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisaApplicationSharedUI", "VisaApplicationSharedUI\VisaApplicationSharedUI.csproj", "{0040B282-B195-44F0-8798-46C3ED8AA8F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisaApplicationSharedUI", "VisaApplicationSharedUI\VisaApplicationSharedUI.csproj", "{0040B282-B195-44F0-8798-46C3ED8AA8F4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BoundedContext", "BoundedContext", "{5DD380DF-DB89-4565-90E7-1A70B3F44F99}"
 EndProject
@@ -17,19 +17,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Seeder", "Seeder", "{4D2769
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharedKernal", "SharedKernal", "{9B0E4E39-8BA8-41FD-8344-39500450EAD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisaApplication.Model", "VisaApplication.Model\VisaApplication.Model.csproj", "{6A54DF86-EFC6-487A-80C0-D86E45458762}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisaApplication.Model", "VisaApplication.Model\VisaApplication.Model.csproj", "{6A54DF86-EFC6-487A-80C0-D86E45458762}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisaApplication.SqlServer", "VisaApplication.SqlServer\VisaApplication.SqlServer.csproj", "{B65DAC09-7A37-4E56-BD5A-A5C67C3E16A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisaApplication.SqlServer", "VisaApplication.SqlServer\VisaApplication.SqlServer.csproj", "{B65DAC09-7A37-4E56-BD5A-A5C67C3E16A1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Base", "Base", "{D8C619D9-E261-40DC-B98C-B185E5800DBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisaApplication.Service", "VisaApplication.Service\VisaApplication.Service.csproj", "{6BDFCE9F-28B9-47A3-8147-62BF666E104A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisaApplication.Service", "VisaApplication.Service\VisaApplication.Service.csproj", "{6BDFCE9F-28B9-47A3-8147-62BF666E104A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisaApplicationBase", "VisaApplicationBase\VisaApplicationBase.csproj", "{966BF17F-C2FB-4841-9771-43367CD005E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisaApplicationBase", "VisaApplicationBase\VisaApplicationBase.csproj", "{966BF17F-C2FB-4841-9771-43367CD005E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisaApplication.Seeder", "VisaApplication.Seeder\VisaApplication.Seeder.csproj", "{1B782A52-0700-462A-B6D3-028373AAEB9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisaApplication.Seeder", "VisaApplication.Seeder\VisaApplication.Seeder.csproj", "{1B782A52-0700-462A-B6D3-028373AAEB9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisaApplication.SharedKernal", "VisaApplication.SharedKernal\VisaApplication.SharedKernal.csproj", "{6D11085E-1A2B-413F-8A60-300C62DCB4AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisaApplication.SharedKernal", "VisaApplication.SharedKernal\VisaApplication.SharedKernal.csproj", "{6D11085E-1A2B-413F-8A60-300C62DCB4AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{DE67EA3B-18FA-4EAA-923D-60F40A258238}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

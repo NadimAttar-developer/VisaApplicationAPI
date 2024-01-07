@@ -15,4 +15,7 @@ public interface IAccountService
 
     Task<OperationResult<GenericOperationResult, string>> LoginUser(
         LoginDto loginDto);
+
+    Task<OperationResult<GenericOperationResult, 
+        IEnumerable<UserDto>>> GetUsers();
 }

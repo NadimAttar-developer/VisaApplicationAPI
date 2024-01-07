@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using VisaApplication.Model.Security;
@@ -144,6 +146,31 @@ public class AccountRepository : VisaApplicationRepository, IAccountRepository
         catch (Exception)
         {
             return null;
+        }
+    }
+
+    public async Task<OperationResult<GenericOperationResult, 
+        IEnumerable<UserDto>>> GetUsers()
+    {
+        var result = new OperationResult<GenericOperationResult,
+            IEnumerable<UserDto>>(GenericOperationResult.Success);
+
+        try
+        {
+            var userDtos = await _context.Users
+                .Where(user => user.IsValid)
+                .Select(user => new UserDto
+                {
+                    Id = user.Id,
+                    UserName = user.UserName
+                }).ToListAsync();
+
+            return result.UpdateResultData(userDtos);
+        }
+        catch (Exception)
+        {
+            return result.AddError("Something went wrong")
+                .UpdateStatusResult(GenericOperationResult.InternalServerError);
         }
     }
 }

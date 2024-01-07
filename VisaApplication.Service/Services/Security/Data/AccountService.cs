@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using VisaApplication.Service.Repositories.Security.IData;
 using VisaApplication.Service.Services.Security.Dto;
@@ -77,4 +78,11 @@ public class AccountService : VisaApplicationRepository, IAccountService
                 .UpdateStatusResult(GenericOperationResult.InternalServerError);
         }
     }
+
+    public async Task<OperationResult<GenericOperationResult,
+        IEnumerable<UserDto>>> GetUsers()
+    {
+        return await _accountRepository.GetUsers();
+    }
+
 }

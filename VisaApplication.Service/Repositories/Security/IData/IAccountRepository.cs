@@ -1,4 +1,5 @@
-﻿
+﻿using System.Collections;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using VisaApplication.Service.Services.Security.Dto;
 using VisaApplicationBase.OperationResult;
@@ -16,4 +17,6 @@ public interface IAccountRepository
     Task<bool> ExistUserAsync(string userName);
     Task<OperationResult<GenericOperationResult, bool>> CheckIfTheUserHasCorrectPasswordAndUserNameAsync(
          string password, string userName);
+
+    Task<OperationResult<GenericOperationResult, IEnumerable<UserDto>>> GetUsers();
 }

@@ -15,6 +15,9 @@ using VisaApplicationSharedUI.Configuration;
 using VisaApplicationSharedUI.Controller.ExceptionHandler;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllersWithViews();
+
 var configuration = builder.Configuration;
 builder.Services.StartServiceConfiguration()
                 .AddDbContextService<VisaApplicationDbContext>(
@@ -121,7 +124,9 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapControllers();
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
 public partial class Program { }
